@@ -1,0 +1,26 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\Fabrizio\\Downloads\\java\\javafx-sdk-20.0.1\\lib\\javafx.base.jar",
+        "c:\\Users\\Fabrizio\\Downloads\\java\\javafx-sdk-20.0.1\\lib\\javafx.controls.jar",
+        "c:\\Users\\Fabrizio\\Downloads\\java\\javafx-sdk-20.0.1\\lib\\javafx.fxml.jar",
+        "c:\\Users\\Fabrizio\\Downloads\\java\\javafx-sdk-20.0.1\\lib\\javafx.graphics.jar",
+        "c:\\Users\\Fabrizio\\Downloads\\java\\javafx-sdk-20.0.1\\lib\\javafx.media.jar",
+        "c:\\Users\\Fabrizio\\Downloads\\java\\javafx-sdk-20.0.1\\lib\\javafx.swing.jar",
+        "c:\\Users\\Fabrizio\\Downloads\\java\\javafx-sdk-20.0.1\\lib\\javafx.web.jar",
+        "c:\\Users\\Fabrizio\\Downloads\\java\\javafx-sdk-20.0.1\\lib\\javafx-swt.jar",
+        "c:\\Users\\Fabrizio\\Downloads\\Programas\\javafx-sdk-20.0.1\\lib\\javafx.base.jar",
+        "c:\\Users\\Fabrizio\\Downloads\\Programas\\javafx-sdk-20.0.1\\lib\\javafx.controls.jar",
+        "c:\\Users\\Fabrizio\\Downloads\\Programas\\javafx-sdk-20.0.1\\lib\\javafx.fxml.jar",
+        "c:\\Users\\Fabrizio\\Downloads\\Programas\\javafx-sdk-20.0.1\\lib\\javafx.graphics.jar",
+        "c:\\Users\\Fabrizio\\Downloads\\Programas\\javafx-sdk-20.0.1\\lib\\javafx.media.jar",
+        "c:\\Users\\Fabrizio\\Downloads\\Programas\\javafx-sdk-20.0.1\\lib\\javafx.swing.jar",
+        "c:\\Users\\Fabrizio\\Downloads\\Programas\\javafx-sdk-20.0.1\\lib\\javafx.web.jar",
+        "c:\\Users\\Fabrizio\\Downloads\\Programas\\javafx-sdk-20.0.1\\lib\\javafx-swt.jar",
+        "c:\\Users\\Fabrizio\\Downloads\\Programas\\javafx-sdk-20.0.1\\lib\\jaxb-api-2.3.0-javadoc.jar",
+        "c:\\Users\\Fabrizio\\Downloads\\Programas\\javafx-sdk-20.0.1\\lib\\jaxb-api-2.3.0.jar"
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
+}
