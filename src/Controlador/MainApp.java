@@ -19,6 +19,7 @@ import javafx.stage.Modality;
 import javafx.stage.Stage;
 import javafx.collections.ObservableList;
 import javafx.collections.FXCollections;
+import javax.persistence.EntityManager;
 import Modelo.Person;
 import Modelo.PersonListWrapper;
 

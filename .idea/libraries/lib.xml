@@ -2,9 +2,23 @@
   <library name="lib">
     <CLASSES>
       <root url="file://$USER_HOME$/Downloads/Programas/javafx-sdk-20.0.1/lib" />
+      <root url="file://$USER_HOME$/Downloads/mysql-connector-j-8.0.33" />
+      <root url="jar://$USER_HOME$/Downloads/Nueva carpeta (2)/javax.persistence-api-2.2.jar!/" />
     </CLASSES>
     <JAVADOC />
-    <SOURCES />
+    <SOURCES>
+      <root url="file://$USER_HOME$/Downloads/mysql-connector-j-8.0.33/src/build/java" />
+      <root url="file://$USER_HOME$/Downloads/mysql-connector-j-8.0.33/src/demo/java" />
+      <root url="file://$USER_HOME$/Downloads/mysql-connector-j-8.0.33/src/generated/java" />
+      <root url="file://$USER_HOME$/Downloads/mysql-connector-j-8.0.33/src/legacy/java" />
+      <root url="file://$USER_HOME$/Downloads/mysql-connector-j-8.0.33/src/main/core-api/java" />
+      <root url="file://$USER_HOME$/Downloads/mysql-connector-j-8.0.33/src/main/core-impl/java" />
+      <root url="file://$USER_HOME$/Downloads/mysql-connector-j-8.0.33/src/main/protocol-impl/java" />
+      <root url="file://$USER_HOME$/Downloads/mysql-connector-j-8.0.33/src/main/user-api/java" />
+      <root url="file://$USER_HOME$/Downloads/mysql-connector-j-8.0.33/src/main/user-impl/java" />
+      <root url="file://$USER_HOME$/Downloads/mysql-connector-j-8.0.33/src/test/java" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/Downloads/mysql-connector-j-8.0.33" recursive="false" />
     <jarDirectory url="file://$USER_HOME$/Downloads/Programas/javafx-sdk-20.0.1/lib" recursive="false" />
   </library>
 </component>
